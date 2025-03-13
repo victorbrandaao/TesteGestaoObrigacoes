@@ -1,0 +1,6 @@
+@GestaoObrigacoes_HostAddress = http://localhost:5121
+
+GET {{GestaoObrigacoes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
